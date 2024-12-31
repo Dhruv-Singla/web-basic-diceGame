@@ -24,7 +24,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 1. **Fork the Repository**: Create your own fork of the repository.
 2. **Create a New Branch**: Make a new branch for your changes.
-3. **Implement Changes**: Make your updates or fixes.
+3. **Implement Changes**: Make your updates and fixes.
 4. **Submit a Pull Request**: Open a pull request to merge your changes into the main repository.
 
 ## License
