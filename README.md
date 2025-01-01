@@ -7,10 +7,10 @@ Welcome to the Dicee Game! This simple web game simulates rolling two dice and d
 - Refresh the page to get a new roll.
 
 ## Technologies Used
-- **HTML**: Structure of the game.
-- **CSS**: Styling for the layout and design.
-- **JavaScript**: Logic for generating random dice rolls and updating images.
-- **Google Fonts**: Custom fonts for a better visual appearance.
+- **HTML**:  Structure of the game.
+- **CSS**:  Styling for the layout and design.
+- **JavaScript**:  Logic for generating random dice rolls and updating images.
+- **Google Fonts**:  Custom fonts for a better visual appearance.
 
 ## How to Play
 
