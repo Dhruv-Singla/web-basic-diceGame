@@ -1,6 +1,6 @@
 # Dice_game_website
 
-Welcome to the Dicee Game! This simple web game simulates rolling two dice and displays their outcomes. Refresh the page to roll the dice again and see new results.
+Welcome to the Dicee Game! This simple web game simulates rolling two dice and displays their outcomes. Refresh the page to roll the dice again and see new result.
 
 ## Features
 - Roll two dice and display the result with images.
